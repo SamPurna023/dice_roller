@@ -27,7 +27,9 @@ The layout was designed in **Figma** before implementation.
 
 ## 🖼️ Preview
 
-| ![App Screenshot]([screenshots/app.png](https://github.com/user-attachments/assets/02a73ad3-ee4c-4004-81a0-5414d02adb11)) | ![Figma Reference](![Image](https://github.com/user-attachments/assets/59a6d17e-8cd8-4bc7-bae7-768004a1b4b1)) |
+[Dice Rolling Generator Demo](https://github.com/user-attachments/assets/2e5100a8-dfcc-4c8c-9f80-0b43545527fc)
+
+![Image](https://github.com/user-attachments/assets/0930e7b6-d745-4b44-bfc5-8814ebfc07ed)
 
 ---
 
