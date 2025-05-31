@@ -27,11 +27,7 @@ The layout was designed in **Figma** before implementation.
 
 ## 🖼️ Preview
 
-| App Interface | Figma Layout |
-|---------------|---------------|
 | ![App Screenshot]([screenshots/app.png](https://github.com/user-attachments/assets/02a73ad3-ee4c-4004-81a0-5414d02adb11)) | ![Figma Reference](![Image](https://github.com/user-attachments/assets/59a6d17e-8cd8-4bc7-bae7-768004a1b4b1)) |
-
-> _Replace the above image links with your actual file paths or uploaded images._
 
 ---
 
